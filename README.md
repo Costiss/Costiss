@@ -1,7 +1,8 @@
-<div style="text-align: center"> <h1> ✰ Gabriel Costa ✰</h1></div>
+<div style="text-align: center"> 
+  <h1 align="center"> ✰ Gabriel Costa ✰</h1>
 
-<div style="text-align: center">
-  <strong >Back-End Developer</strong>
+<strong align="center" >Back-End Developer</strong>
+
 </div>
 
 <div style="display: inline_block" align="center" ><br>
