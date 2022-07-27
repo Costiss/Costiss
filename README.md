@@ -10,6 +10,6 @@
   <img align="center" alt="Rust" height="40" width="40" src="https://icons-for-free.com/download-icon-vscode+icons+type+rust-1324451477410103145_0.svg">
 </div>
 <div align="center" >
-  <img align="center" heighr="150" src="https://rustacean.net/assets/rustacean-flat-happy.svg" >
+  <img align="center" height="150" src="https://rustacean.net/assets/rustacean-flat-happy.svg" >
 </div>
   
