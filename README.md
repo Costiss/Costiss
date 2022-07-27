@@ -1,8 +1,8 @@
-<center> <h1> ✰ Gabriel Costa ✰</h1></center>
+<div style="text-align: center"> <h1> ✰ Gabriel Costa ✰</h1></div>
 
-<center>
+<div style="text-align: center">
   <strong >Back-End Developer</strong>
-</center>
+</div>
 
 <div style="display: inline_block" align="center" ><br>
   <img align="center" alt="Node" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
