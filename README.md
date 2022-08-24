@@ -53,7 +53,7 @@
     <br>
     <p>
     <div align="center">
-      <a href="mailto:gabricostam@gmail.com" target="_blank">
+      <a href="mailto:gabricostam@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
       </a> 
       <a href="https://www.linkedin.com/in/gabriel-costa-martins-ganassin-b6a3231a4/" target="_blank"> 
