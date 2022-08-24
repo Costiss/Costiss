@@ -7,7 +7,7 @@
       <img src="https://slackmojis.com/emojis/8818-computer-fire/download" width="40">
     </h2>
     <p>
-      Working as Back-End Developer on Contabilizei
+      Working as Back-End Developer at Contabilizei
     </p>
     <p>
       Currently learning Elixir
