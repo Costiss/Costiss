@@ -4,7 +4,7 @@
   <img src="https://lanyard.cnrad.dev/api/315543395688906755">
 </div>
 
-### <div align="center">I'm Gabriel Costa, Back-End Developer ⚙️ Working on Technology since 2020🚀</div>
+### <div align="center">I'm Gabriel Costa, Back-End Developer ⚙️ Working with Technology since 2020🚀</div>
 
 - 🔭 I’m currently working for [Contabilizei](https://www.contabilizei.com.br) since 2020
 
