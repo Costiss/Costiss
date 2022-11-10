@@ -9,9 +9,6 @@
     <p>
       Working as Back-End Developer at Contabilizei
     </p>
-    <p>
-      Currently learning Elixir
-    </p>
     <br>
     <div align="center">
       <img src="https://lanyard.cnrad.dev/api/315543395688906755">
