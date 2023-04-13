@@ -7,18 +7,12 @@
   <p>Hi! My name is Gabriel, I've beern working with Technology since 2020. <br>
   Currently I'm a BackEnd Developer at <a href="https://www.contabilizei.com.br">Contabilizei</a>
   </p>
-  <br>
   <img  alt="UFPR" height="70" width="100" src="https://seeklogo.com/images/U/UFPR-logo-F52F55C42F-seeklogo.com.png">
     <p>I'm also graduating at Computer and Informational Sciences on <a href="https://ufpr.br/">UFPR </p>
 
   <h6>My Discord Activity!</h6>
   <img src="https://lanyard.cnrad.dev/api/315543395688906755">
   </div>
-
-  <br>
-
-![LangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=costiss&hide_progress=true&&hide=javascript,html,shell&theme=dracula)
-
   <div style="display: inline_block"><br>
     <img align="center" alt="TS" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg">
     <img align="center" alt="Rust" height="50" width="50" src="https://icons-for-free.com/download-icon-vscode+icons+type+rust-1324451477410103145_0.svg">
@@ -28,6 +22,9 @@
     <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
     <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </div>
+  <br>
+
+![LangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=costiss&hide_progress=true&&hide=javascript,html,shell&theme=dracula)
 
   <div style="display: inline_block"><br>
     <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
