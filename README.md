@@ -12,9 +12,10 @@
   <div>
     <h3>⚠ WARNING ⚠</h3>
     <p>I will be leaving GitHub for some projects, checkout my
-      <a href="https://codeberg.org/Costiss/">Codeberg.</a> 
+      <a href="https://codeberg.org/Costiss/">Codeberg</a>. 
       Reach <a href="https://giveupgithub.org/">GiveUpGithub.org</a> for more info
     </p>
+    <a href="https://nogithub.codeberg.page"><img src="https://nogithub.codeberg.page/badge.svg" alt="Please don't upload to GitHub"></a>
   </div>
 
   </div>
