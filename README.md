@@ -10,7 +10,7 @@
   <br/>
 
   <div>
-    <p>⚠WARNING⚠</p>
+    <h3>⚠ WARNING ⚠</h3>
     <p>I will be leaving GitHub for some projects, checkout my
       <a href="https://codeberg.org/Costiss/">Codeberg.</a> 
       Reach <a href="https://giveupgithub.org/">GiveUpGithub.org</a> for more info
