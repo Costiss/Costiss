@@ -18,7 +18,7 @@
     </p>
     <a href="https://nogithub.codeberg.page"><img src="https://nogithub.codeberg.page/badge.svg" alt="Please don't upload to GitHub"></a>
     <a src="https://codeberg.org/Costiss/" >
-    <img alt="Get it on Codeberg" src="https://get-it-on.codeberg.org/get-it-on-white-on-black.png" height="30"></a>
+    <img alt="Get it on Codeberg" src="https://get-it-on.codeberg.org/get-it-on-white-on-black.png" height="25"></a>
   </div>
 
   </div>
