@@ -7,11 +7,11 @@
   <p>Hi! My name is Gabriel, I've beern working with Technology since 2020. <br>
   Currently I'm a BackEnd Developer at <a href="https://www.contabilizei.com.br">Contabilizei</a>
   </p>
-  <img  alt="UFPR" height="70" width="100" src="https://seeklogo.com/images/U/UFPR-logo-F52F55C42F-seeklogo.com.png">
-    <p>I'm also graduating at Computer and Informational Sciences on <a href="https://ufpr.br/">UFPR </p>
 
-  <h6>My Discord Activity!</h6>
-  <img src="https://lanyard.cnrad.dev/api/315543395688906755">
+  <div>
+  <a href="https://giveupgithub.org/">https://giveupgithub.org/</a>
+  </div>
+
   </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="TS" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg">
