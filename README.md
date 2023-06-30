@@ -2,7 +2,7 @@
 
   <div>
   <h1>Gabriel Costa</h1>
-  <h2>BackEnd Developer & Cloud Engineer</h2>
+  <h2>Web Developer</h2>
 
   <p>Hi! My name is Gabriel, I've beern working with Technology since 2020. <br>
   Currently I'm a BackEnd Developer at <a href="https://www.contabilizei.com.br">Contabilizei</a>
