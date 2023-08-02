@@ -33,7 +33,7 @@
   </div>
   <br>
 
-![LangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=costiss&hide_progress=true&&hide=javascript,html,shell,makefile,lua,Dockerfile&theme=dracula)
+![LangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=costiss&hide_progress=true&&hide=html,shell,makefile,lua,Dockerfile&theme=dracula)
 
   <div style="display: inline_block"><br>
     <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
