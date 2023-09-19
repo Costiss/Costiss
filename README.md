@@ -33,7 +33,8 @@
       <img alt="Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
       <img alt="Vim" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />         
   </div>
-
+  
+  <br>
   <div style="margin-top: 20px" >
       <p>My Network</p>
       <div >
