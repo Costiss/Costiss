@@ -23,22 +23,5 @@
 
 ![LangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=costiss&hide_progress=true&&hide=html,shell,makefile,lua,Dockerfile&theme=dracula)
 
-  <div style="display: inline_block"><br>
-    <a target="_blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" target="_blank"></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank"></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" target="_blank"></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" target="_blank"></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" target="_blank"></a>
-    <a target="_blank"><img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" target="_blank"></a>
-  </div>
-  <br/>
-  <div> 
-    <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-    <a href="https://instagram.com/rafaballerini" target="_blank">
-    <a href = "mailto:gabricostam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://linkedin.com/in/gabriel-costa-martins-ganassin-b6a3231a4" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=Costiss&&style=flat-square" align="center" />
 
 </div>
