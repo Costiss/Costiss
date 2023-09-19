@@ -8,20 +8,8 @@
   Currently I'm a BackEnd Developer at <a href="https://www.contabilizei.com.br">Contabilizei</a>
   </p>
   <br/>
-
-  <div>
-    <h3>⚠ WARNING ⚠</h3>
-    <p>I will be leaving GitHub for some projects, checkout my
-      <a href="https://codeberg.org/Costiss/" target="_blank">Codeberg</a>. 
-      Reach <a href="https://giveupgithub.org/" target="_blank">GiveUpGithub.org</a> and 
-      <a href="https://nogithub.codeberg.page/" target="_blank">NoGithub</a> for more info
-    </p>
-    <a href="https://nogithub.codeberg.page"><img src="https://nogithub.codeberg.page/badge.svg" alt="Please don't upload to GitHub"></a>
-    <a href="https://codeberg.org/Costiss/" >
-    <img alt="Get it on Codeberg" src="https://get-it-on.codeberg.org/get-it-on-white-on-black.png" height="25"></a>
   </div>
-
-  </div>
+  
   <div style="display: inline_block"><br>
     <img align="center" alt="TS" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg">
     <img align="center" alt="Rust" height="50" width="50" src="https://icons-for-free.com/download-icon-vscode+icons+type+rust-1324451477410103145_0.svg">
