@@ -1,6 +1,3 @@
-
-
-          
 <div align="center">
 
   <div>
@@ -14,17 +11,31 @@
   </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="TS" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg">
-    <img align="center" alt="Rust" height="50" width="50" src="https://icons-for-free.com/download-icon-vscode+icons+type+rust-1324451477410103145_0.svg">
-    <img align="center" alt="GO" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/go-original.svg">
-    <img align="center" alt="GCP" height="40" width="40" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg">
-    <img align="center" alt="Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+    <img align="center" alt="Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" alt="GO" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
     <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-    <img align="center" alt="Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+    <img align="center" alt="Rust" height="50" width="50" src="https://icons-for-free.com/download-icon-vscode+icons+type+rust-1324451477410103145_0.svg">
   </div>
   <br>
 
 ![LangStats](https://github-readme-stats.vercel.app/api/top-langs/?username=costiss&hide_progress=true&&hide=html,shell,makefile,lua,Dockerfile&theme=dracula)
 
+<div style="display: inline_block;height: 30px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />      
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />         
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg" />       
+          
+          
+          
+</div>
 
 </div>
