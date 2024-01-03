@@ -1,3 +1,6 @@
+<head>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">     
+</head>
 <div align="center">
 
   <div>
@@ -16,7 +19,7 @@
     <img align="center" alt="TS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" alt="GO" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
     <img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
-    <img align="center" alt="Rust" height="50" width="50" src="https://icons-for-free.com/download-icon-vscode+icons+type+rust-1324451477410103145_0.svg">
+    <img align="center" alt="Rust" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
   </div>
   <br>
 
